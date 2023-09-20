@@ -21,13 +21,5 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pinkhaze/pwa-text-editor.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pinkhaze/pwa-text-editor/issues"
-  },
-  "homepage": "https://github.com/pinkhaze/pwa-text-editor#readme"
+  }
 }
