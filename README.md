@@ -19,7 +19,6 @@
  * loading the web application results in a registered service worker using workbox
  * registering a service worker leads to your static assets being pre cached upon loading along with subsequent pages and static assets
  * deploying to Heroku has the proper build scripts for a webpack application
-```
 
   ## Table of Contents
   - [Installation](#installation)
